@@ -1,3 +1,20 @@
+#using
+apt update && apt upgrade
+apt install php
+apt install git
+git clone https://github.com/Mohamad550/Web-scanner
+cd Web-scanner
+chmod +x scanner.php
+php scanner.php
+
+help
+
+
+
+
+
+
+
 # Build and Release Folders
 bin-debug/
 bin-release/
